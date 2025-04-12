@@ -24,9 +24,7 @@ Team members: Trevor Harned, Adam Warren, Calvin Harding\
 Team Sponsor from VR Clubs of America: Frank Liu
 
 ## Video
-<!-- YouTube Embed -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V47XxkhesU0?si=nzb6paNT-ewSDwSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=V47XxkhesU0
 
 ## License 
 MIT License
