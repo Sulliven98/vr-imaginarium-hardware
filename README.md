@@ -10,6 +10,8 @@ This lack of affordable, open-source tools limits creativity and experimentation
 
 **VR Imaginarium** is an open-source hardware toolkit designed to make **affordable and accessible VR development**—including **haptic interactions**—a reality for everyone.
 
+https://www.youtube.com/watch?v=V47XxkhesU0
+
 By providing:
 
 - Modular, low-cost hardware components for building custom interfaces
@@ -23,6 +25,5 @@ Hardware Lead: Sulliven Weiss \
 Team members: Trevor Harned, Adam Warren, Calvin Harding\
 Team Sponsor from VR Clubs of America: Frank Liu
 
-## Video
-https://www.youtube.com/watch?v=V47XxkhesU0
+
 
