@@ -18,8 +18,7 @@ By providing:
 
 VR Imaginarium empowers creators of all backgrounds to design, build, and share their own immersive experiences. Whether you're an educator designing interactive lessons, a student exploring tactile simulations, or a maker prototyping new VR input devices, VR Imaginarium opens the door to a more inclusive and creative future in virtual reality.
 
-Built by University of Advancing Technology Students in partnership with VR Clubs of America
-
-Hardware Lead: Sulliven Weiss
-Team members: Trevor Harned, Adam Warren, Calvin Harding
+Built by University of Advancing Technology Students in partnership with VR Clubs of America \
+Hardware Lead: Sulliven Weiss \
+Team members: Trevor Harned, Adam Warren, Calvin Harding\
 Team Sponsor from VR Clubs of America: Frank Liu
