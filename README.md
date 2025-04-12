@@ -23,6 +23,10 @@ Hardware Lead: Sulliven Weiss \
 Team members: Trevor Harned, Adam Warren, Calvin Harding\
 Team Sponsor from VR Clubs of America: Frank Liu
 
+## Video
+[![Watch the video](https://img.youtube.com/vi/V47XxkhesU0/0.jpg)](https://www.youtube.com/watch?v=V47XxkhesU0)
+
+
 ## License 
 MIT License
 
